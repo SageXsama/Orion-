@@ -39,7 +39,6 @@ Otherwise, just reply normally in plain text.
 
 # --- Speech ---
 WHISPER_MODEL_SIZE = "small"  # tiny, base, small, medium — bigger = more accurate, slower
-PIPER_VOICE_PATH = "voices/en_US-lessac-medium.onnx"  # download from Piper voices repo
+PIPER_VOICE_PATH = "voices/en_GB-northern_english_male-medium.onnx"  # download from Piper voices repo
 RECORD_SECONDS = 5  # how long to listen after wake word before transcribing
 SAMPLE_RATE = 16000
-
