@@ -1,0 +1,7 @@
+requests
+openwakeword
+pyaudio
+faster-whisper
+piper-tts
+sounddevice
+numpy
